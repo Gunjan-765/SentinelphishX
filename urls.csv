@@ -1,0 +1,5 @@
+url,label
+https://www.google.com,0
+https://www.facebook.com,0
+http://www.phishing-site-example.com,1
+https://malicious-login-page.net,1
